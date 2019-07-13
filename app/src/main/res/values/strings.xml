@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">check</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_adminmap">Map</string>
+</resources>
